@@ -45,7 +45,7 @@ Another option, which worked for me is to use conda virtual environments:
 
 Start jupyter notebooks
 
-`jupter notebook`
+`jupyter notebook`
 
 then select the 'hsbm-topicmodel-tutorial'-notebook.
 
